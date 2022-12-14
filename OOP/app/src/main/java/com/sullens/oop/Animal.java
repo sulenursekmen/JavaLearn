@@ -1,6 +1,6 @@
 package com.sullens.oop;
 
-public class Animal {
+public  class Animal {
     public void sing(){
         System.out.println("animal class");
     }

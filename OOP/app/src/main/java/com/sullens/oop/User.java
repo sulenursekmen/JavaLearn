@@ -12,7 +12,4 @@ public class User extends People{
     String name;
     String job;
 
-
-
-
 }
